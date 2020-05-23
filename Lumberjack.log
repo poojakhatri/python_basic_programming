@@ -1,0 +1,5 @@
+2020-05-23 15:43:55,682 DEBUG This is a harmless debug message.
+2020-05-23 15:43:55,682 INFO Just some useful info
+2020-05-23 15:43:55,682 WARNING I'am sorry but I can't do that, Dave.
+2020-05-23 15:43:55,682 ERROR Did you just try to divide by zero?
+2020-05-23 15:43:55,682 CRITICAL The entire internet is down!
